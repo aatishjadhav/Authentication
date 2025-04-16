@@ -1,0 +1,20 @@
+2024-10-23 14:32:05 [PID: 1234] [TID: 5678] [TAG: INFO] [PACKAGE: app.module] 
+     Application started successfully.
+
+2024-10-23 14:32:15 [PID: 1234] [TID: 5678] [TAG: DEBUG] [PACKAGE: app.module] 
+     Initialized database connection.
+
+2024-10-23 14:32:25 [PID: 1234] [TID: 5678] [TAG: INFO] [PACKAGE: auth.service] 
+     User login successful: user1234
+
+2024-10-23 14:32:30 [PID: 1234] [TID: 5678] [TAG: WARNING] [PACKAGE: payment.module] 
+     Payment gateway is slow, response time is 3s.
+
+2024-10-23 14:32:45 [PID: 1234] [TID: 5678] [TAG: ERROR] [PACKAGE: payment.module] 
+     Payment failed due to insufficient funds. User: user1234
+
+2024-10-23 14:32:50 [PID: 1234] [TID: 5678] [TAG: INFO] [PACKAGE: app.module] 
+     Application shut down successfully.
+New log entry: Data appended at 2:00PM[TAG: INFO] New log entry: Data appended at 2:00PM. [PRIORITY: INFO]
+
+ [TAG: INFO] New log entry: Data appended at 2:00PM. [PRIORITY: INFO]
